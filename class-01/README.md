@@ -3,6 +3,7 @@
 ## repl
 
 - [arrow Functions and Classes](https://replit.com/@rkgallaway/301d81-arrow-functions-and-classes#index.js)
+- [forEach Method](https://replit.com/@rkgallaway/301d81-forEach#index.js)
 
 ## Overview
 
