@@ -4,6 +4,10 @@
 
 Today's class will focus on passing information as `props` from a parent component into a child component. We will also cover the concept of `state` and how individual components can hold state.
 
+## Repl
+
+- [Map Method](https://replit.com/@rkgallaway/301d81-map#index.js)
+
 ## Daily Plan
 
 - Warm-up exercise

@@ -1,0 +1,15 @@
+article {
+  border: 1px solid black;
+  margin-top: 2vw;
+  padding: 1vw;
+  width: 30%;
+}
+
+article img {
+  width: 100%;
+  margin-bottom: 1vw;
+}
+
+.right-button {
+  margin-left: 1vw;
+}
