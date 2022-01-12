@@ -1,6 +1,12 @@
 # Passing Functions as Props
 
+
+
 ## Overview
+
+## repl
+
+- [Filter Method](https://replit.com/@rkgallaway/301b81-filter#index.js)
 
 Yesterday, you learned how to pass information from a parent component into a child component through `props`. Today, we are going to pass functions through the `props` as well. We are also going to display a nested component using `.map` rather than hard-coding each one individually.
 
