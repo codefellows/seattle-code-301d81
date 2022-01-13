@@ -2,6 +2,11 @@
 
 ## Overview
 
+## Repl and Deployed Demo
+
+- [Sort Method](https://replit.com/@rkgallaway/301d81sort#index.js)
+- [Deployed Form Demo](https://cocky-raman-6f2669.netlify.app/)
+
 Today we will cover how React handles `forms` and the asynchronous nature of setting state.
 
 ## Daily Plan
