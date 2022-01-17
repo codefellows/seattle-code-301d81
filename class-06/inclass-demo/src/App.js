@@ -51,7 +51,7 @@ class App extends React.Component {
   }
 
   getCityInfo = async (city) => {
-    try {let url = `https://us1.locationiq.com/v1/search.php?key=${process.env.REACT_APP_LOCATIONIQ_ACCESS_TOKN}&q=${city}&format=json`;
+    try {let url = `https://us1.locationiq.com/v1/search.php?key=${process.env.REACT_APP_LOCATIONIQ_ACCESS_TOKEN}&q=${city}&format=json`;
 
     console.log(url);
     let cityResults = await axios.get(url);
