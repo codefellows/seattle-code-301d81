@@ -1,5 +1,9 @@
 # APIs
 
+##  repl & useful link
+- [Intro to Regex](https://replit.com/@rkgallaway/301d81-regex-one#index.js)
+- [regex101:  a cool regex "sandbox"](https://regex101.com/)
+
 ## Overview
 
 Today we will use our express server to request information from third party APIs to send to the front-end.
